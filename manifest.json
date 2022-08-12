@@ -10,13 +10,13 @@
             19,
             0
         ],
-        "name": "Openbe Client V1",
+        "name": "Openbe Client V1.0.5",
         "description": "The perfect Client resource pack for MCBE / MCPE.",
         "uuid": "400111d4-e5ac-4673-8403-15938b69e683",
         "version": [
             1,
             0,
-            0
+            5
         ]
     },
     "modules": [{
